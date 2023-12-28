@@ -11,11 +11,11 @@
 
 - 🔭 I’m currently working on **Spotify clone**
 
-- 💬 Ask me about **C++, HTML, CSS, JavaScript**
+- 💬 Ask me about **C++, HTML, CSS, JavaScript, ReactJS**
 
 - 📫 How to reach me **dhrubasarkar4436@gmail.com**
 
-- ⚡ Fun fact **I love street foods**
+- ⚡ Fun fact **I love cats**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
