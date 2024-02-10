@@ -15,14 +15,14 @@
 
 - 📫 How to reach me **dhrubasarkar4436@gmail.com**
 
-- ⚡ Fun fact **I love cats**
+- ⚡ Fun fact **I love pussies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@dhruba_sarkar07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@dhruba_sarkar07" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/dhrubajyoti-sarkar-87b43220a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/dhrubajyoti-sarkar-87b43220a" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/dhurbajyoti-sarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/dhrubajyoti-sarkar-87b43220a" height="30" width="40" /></a>
 <a href="https://instagram.com/dhruba6294" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhruba6294" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kannax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kannax" height="30" width="40" /></a>
+<a href="https://leetcode.com/dhruba99/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kannax" height="30" width="40" /></a>
 </p>
 
 
