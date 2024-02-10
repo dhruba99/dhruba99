@@ -5,7 +5,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruba69&label=Profile%20views&color=0e75b6&style=flat" alt="dhruba69" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruba99&label=Profile%20views&color=0e75b6&style=flat" alt="dhruba99" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@dhruba_sarkar07" target="blank"><img src="https://img.shields.io/twitter/follow/@dhruba_sarkar07?logo=twitter&style=for-the-badge" alt="@dhruba_sarkar07" /></a> </p>
 
@@ -48,8 +48,8 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruba99&show_icons=true&locale=en&layout=compact" alt="dhruba69" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruba99&show_icons=true&locale=en&layout=compact" alt="dhruba99" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruba99&show_icons=true&locale=en" alt="dhruba69" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruba99&show_icons=true&locale=en" alt="dhruba99" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruba99&" alt="dhruba69" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruba99&" alt="dhruba99" /></p>
