@@ -15,7 +15,6 @@
 
 - 📫 How to reach me **dhrubasarkar4436@gmail.com**
 
-- ⚡ Fun fact **I love pussies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
